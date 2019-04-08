@@ -1,0 +1,24 @@
+.winner {
+	color: green;
+}
+.content {
+	border: 2px solid lightpink;
+	width: 800px;
+	margin: 30px auto;
+	padding: 30px 30px;
+
+}
+h1, h2, p {
+	text-align: center;
+}
+
+input {
+	padding: 10px 10px;
+	margin: 20px 20px;
+}
+.input {
+	margin: 30px 30px;
+	text-align: center;
+	border: 2px solid pink;
+	margin-left: 37%;
+}
